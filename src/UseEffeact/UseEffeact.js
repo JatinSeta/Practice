@@ -22,7 +22,7 @@ export default function UseEffeact() {
                 <button onClick={()=>(setCount(count+1))}>Add Value</button>
                 <button onClick={()=>(setCount(count-1))}>Remove  Value</button>
                 <button onClick={()=>(setCount(0))}>Clear  Value</button>
-                <button onClick={()=>(setCount(0))}>Clear  </button>
+                <button onClick={()=>(setCount(0))}>Clear</button>
 
       </div>
     </>
